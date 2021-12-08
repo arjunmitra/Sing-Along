@@ -1,0 +1,7 @@
+#song-card{
+    max-width:50rem; background-color: rgba(0,0,0,0.8)!important;
+}
+
+#lyrics-text{
+    line-height:5rem;
+}
